@@ -42,8 +42,6 @@ I update this repo weekly to keep track of my progress
 By the end of semester 1, I aim to have **5+ mini projects** and a solid python + Git foundation
 ---
 
-## Topics I'm covering
-- Python b
 
 
 
