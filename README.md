@@ -12,22 +12,31 @@ Inspired by
 ### Week 0 (August 25-29) - Zero week
 - [x] Install python, GIT, VS code
 - [x] Create first GitHub repo
-- [ ] Learn Git basics (init, add, commit, push)
+- [x] Arduino uno traffic light
+- [x] presentation skills
 
 ## Topics I am Covering this semester
 - Discrete Mathematics
-- Introduction to programming
-- Introduction to data science and artificial intelligence
-- Computer systems
+- Introduction to programming (C# and C++)
+- Introduction to data science and artificial intelligence (python)
+- Computer systems (arduino uno)
 - Git and GitHub workflow
   
 
 ---
 
 ## Mini projects 
-- [ ] Calculater in Python
-- [ ] Simple to do list app
-- [ ] Dataset analysis
+-  Calculater in C#              ✅
+-  Chitkara Logo                 ✅
+-  Madlib using C#               ✅
+-  Simple to do list app
+-  Dataset analysis
+
+## My learning
+- Freecodecamp C# lecture
+- Digital Marketing skillverse 7.0
+
+---
 
 ## Notes
 I update this repo monthly to keep track of my progress
