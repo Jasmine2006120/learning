@@ -29,8 +29,8 @@ Inspired by
 -  Calculater in C#              ✅
 -  Chitkara Logo                 ✅
 -  Madlib using C#               ✅
--  Simple to do list app
--  Dataset analysis
+-  Simple to do list app         ✅
+-  Dataset analysis using pandas ✅
 
 ## My learning
 - Freecodecamp C# lecture
